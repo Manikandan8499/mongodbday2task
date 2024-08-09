@@ -1,0 +1,43 @@
+[
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a30",
+    "task_name": "Build a REST API",
+    "assigned_date": "2020-10-01T00:00:00Z",
+    "due_date": "2020-10-07T00:00:00Z",
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1c",
+    "submission_date": "2020-10-05T00:00:00Z",
+    "status": "submitted"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a31",
+    "task_name": "Create a MongoDB schema",
+    "assigned_date": "2020-10-02T00:00:00Z",
+    "due_date": "2020-10-09T00:00:00Z",
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1c",
+    "status": "pending"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a32",
+    "task_name": "Design a frontend layout",
+    "assigned_date": "2020-10-03T00:00:00Z",
+    "due_date": "2020-10-10T00:00:00Z",
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1e",
+    "status": "submitted"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a33",
+    "task_name": "Implement user authentication",
+    "assigned_date": "2020-10-04T00:00:00Z",
+    "due_date": "2020-10-11T00:00:00Z",
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1f",
+    "status": "pending"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a34",
+    "task_name": "Set up a CI/CD pipeline",
+    "assigned_date": "2020-10-05T00:00:00Z",
+    "due_date": "2020-10-12T00:00:00Z",
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1c",
+    "status": "in_progress"
+  }
+]

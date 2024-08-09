@@ -1,0 +1,37 @@
+[
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a1c",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "student",
+    "enrollment_date": "2020-09-15T00:00:00Z"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a1d",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "role": "mentor",
+    "enrollment_date": "2020-09-10T00:00:00Z"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a1e",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "student",
+    "enrollment_date": "2020-10-01T00:00:00Z"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a1f",
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "role": "student",
+    "enrollment_date": "2020-10-05T00:00:00Z"
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a20",
+    "name": "Chris Green",
+    "email": "chris.green@example.com",
+    "role": "mentor",
+    "enrollment_date": "2020-09-12T00:00:00Z"
+  }
+]

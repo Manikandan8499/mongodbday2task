@@ -1,0 +1,32 @@
+[
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a35",
+    "company_name": "Google",
+    "date": "2020-10-20T00:00:00Z",
+    "students": ["64d5d8fa8e9f7b2e2c3f9a1c"]
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a36",
+    "company_name": "Facebook",
+    "date": "2020-10-25T00:00:00Z",
+    "students": []
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a37",
+    "company_name": "Amazon",
+    "date": "2020-10-27T00:00:00Z",
+    "students": ["64d5d8fa8e9f7b2e2c3f9a1e", "64d5d8fa8e9f7b2e2c3f9a1f"]
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a38",
+    "company_name": "Microsoft",
+    "date": "2020-10-28T00:00:00Z",
+    "students": ["64d5d8fa8e9f7b2e2c3f9a1f"]
+  },
+  {
+    "id": "64d5d8fa8e9f7b2e2c3f9a39",
+    "company_name": "Apple",
+    "date": "2020-10-30T00:00:00Z",
+    "students": ["64d5d8fa8e9f7b2e2c3f9a1c", "64d5d8fa8e9f7b2e2c3f9a1e"]
+  }
+]

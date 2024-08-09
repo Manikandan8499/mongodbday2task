@@ -1,0 +1,27 @@
+[
+  {
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1c",
+    "date": "2020-10-01T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1e",
+    "date": "2020-10-01T00:00:00Z",
+    "status": "absent"
+  },
+  {
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1f",
+    "date": "2020-10-02T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a1d",
+    "date": "2020-10-02T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_id": "64d5d8fa8e9f7b2e2c3f9a20",
+    "date": "2020-10-02T00:00:00Z",
+    "status": "absent"
+  }
+]
